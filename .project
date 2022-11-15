@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Selenium</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>chromedriver_win32 (2)</name>
+			<type>2</type>
+			<location>C:/Users/BHAGYASHREE/Downloads/chromedriver_win32 (2)</location>
+		</link>
+		<link>
+			<name>geckodriver-v0.32.0-win64 (4)</name>
+			<type>2</type>
+			<location>C:/Users/BHAGYASHREE/Downloads/geckodriver-v0.32.0-win64 (4)</location>
+		</link>
+	</linkedResources>
+</projectDescription>
